@@ -1,13 +1,13 @@
 # BottomNavTabs<br/>
-##Android底部功能导航和圆点提示封装<br/>
-##效果图<br/>
-##真机<br/>
+## Android底部功能导航和圆点提示封装<br/>
+## 效果图<br/>
+## 真机<br/>
 ![image](https://github.com/wanliyang1990/BottomNavTabs/blob/master/imgs/tabview.png)<br/>
-##gif动画<br/>
+## gif动画<br/>
 ![image](https://github.com/wanliyang1990/BottomNavTabs/blob/master/imgs/tabview.gif)<br/>
 
 
-调用方法：<br/>
+## 调用方法：<br/>
 
         private String[] titles = {"附近", "动态", "消息", "发现", "我的"};
         private int[] imgs = {R.drawable.nav_nearby_selector, R.drawable.nav_circle_selector, R.drawable.nav_message_selector, R.drawable.nav_find_selector, R.drawable.nav_me_selector};
@@ -26,4 +26,4 @@
         
 
     
-create by ywl5320
+# create by ywl5320
